@@ -11,4 +11,15 @@ The pokemon challenge - PHP style
 * Get starting with studying PHP toturial and see what is its difference with JavaScript!!!
 * Get a basic knowledge of PHP
 * Do some exercises to prepare myself for the Pokemon challenge
+* .
+* .
+* .
+* .
+* .
+* .
+* .
+* .
+* .
+* .
+
 
