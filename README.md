@@ -1,7 +1,7 @@
 The pokemon challenge - PHP style
 
 # Learning objectives
-Starting with PHP
+Starting with PHP--hit
 To be able to write a simple condition and a simple loop
 To know how to access external resources (API)
 To know where to search for PHP documentation
