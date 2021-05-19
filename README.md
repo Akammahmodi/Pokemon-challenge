@@ -1,5 +1,3 @@
-# https://akammahmodi.github.io/Pokemon-challenge/
-
 
 
 # The pokemon challenge - PHP style
