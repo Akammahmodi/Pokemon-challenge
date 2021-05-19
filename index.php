@@ -25,7 +25,7 @@
 
     if (!empty($_GET["pokemon"])) {
         $search = $_GET["pokemon"];
-        
+
     //fetching API
     $pokemonSpecies_url = "https://pokeapi.co/api/v2/pokemon-species/" . $search;
     $pokemon_api = "https://pokeapi.co/api/v2/pokemon/" . $search;
